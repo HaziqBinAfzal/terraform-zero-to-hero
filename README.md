@@ -2,7 +2,7 @@
 
 > **Portfolio classification: learning resource / study syllabus.** This repository contains a seven-day Terraform curriculum. The topics below are educational objectives, not evidence that all infrastructure was provisioned or tested.
 >
-> **Attribution review needed:** The existing curriculum does not identify its original author or source. Verify authorship and licensing before presenting it as original course material.
+> **Source and attribution:** This is a learning fork of [iam-veeramalla/terraform-zero-to-hero](https://github.com/iam-veeramalla/terraform-zero-to-hero). Credit for the original curriculum belongs to its upstream author and contributors. This fork adds portfolio context; the curriculum is not presented as Haziq\'s original course material. Consult the upstream repository for reuse and licensing terms.
 
 **Focus areas:** Infrastructure as Code, HCL, providers, state, modules, collaboration, workspaces and security.
 
