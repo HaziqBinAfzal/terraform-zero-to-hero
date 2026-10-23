@@ -1,3 +1,15 @@
+# Terraform Learning Roadmap
+
+> **Portfolio classification: learning resource / study syllabus.** This repository contains a seven-day Terraform curriculum. The topics below are educational objectives, not evidence that all infrastructure was provisioned or tested.
+>
+> **Attribution review needed:** The existing curriculum does not identify its original author or source. Verify authorship and licensing before presenting it as original course material.
+
+**Focus areas:** Infrastructure as Code, HCL, providers, state, modules, collaboration, workspaces and security.
+
+**Suggested practice:** For each module, record the Terraform version, provider versions, `terraform fmt` and `terraform validate` results, a reviewed `terraform plan`, and teardown evidence where applicable. Never commit credentials or sensitive state files. Provisioned resources may incur cloud charges.
+
+---
+
 # Terraform Zero to Hero course
 
 ## Day 1: Getting Started with Terraform
